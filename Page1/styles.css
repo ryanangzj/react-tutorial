@@ -1,0 +1,23 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-items {
+  list-style: none;
+  display: flex;
+}
+
+.nav-items > li {
+  padding: 10px;
+}
+
+.react-logo {
+  width: 75px;
+}
+
+.whole-page-container,
+.main-content {
+  font-family: Arial;
+}
